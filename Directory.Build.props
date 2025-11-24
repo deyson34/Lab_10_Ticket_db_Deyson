@@ -1,0 +1,8 @@
+<Project>
+  <PropertyGroup>
+    <!-- Evita generación automática de atributos de ensamblado en multi-proyecto -->
+    <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+    <GenerateTargetFrameworkAttribute>false</GenerateTargetFrameworkAttribute>
+  </PropertyGroup>
+</Project>
+
